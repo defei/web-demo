@@ -5,7 +5,7 @@
     <title>Demo</title>
     <link rel="shortcut icon" href="resources/app/images/favicon.ico" />
     <link rel="stylesheet" type="text/css" href="http://static.codelogger.org/resources/css/reset.css"/>
-    <link rel="stylesheet" type="text/css" href="http://static.codelogger.org/semantic-ui/1.0.0/semantic.min.css"/>
+    <link rel="stylesheet" type="text/css" href="http://cdn.staticfile.org/semantic-ui/0.19.3/css/semantic.css"/>
     <link rel="stylesheet" type="text/css" href="resources/css/app.css"/>
 </head>
 <body>
@@ -50,7 +50,7 @@
 </div>
 
 <script type="text/javascript" src="http://cdn.staticfile.org/jquery/1.11.1/jquery.min.js"></script>
-<script type="text/javascript" src="http://static.codelogger.org/angular/1.2.27/angular.min.js"></script>
+<script type="text/javascript" src="http://cdn.staticfile.org/angular.js/1.3.0-beta.13/angular.js"></script>
 <script type="text/javascript" src="resources/js/app.js"></script>
 
 </body>
